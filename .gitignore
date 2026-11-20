@@ -1,0 +1,24 @@
+# Flutter gitignore
+.dart_tool/
+.packages
+build/
+.pub-cache/
+.pub/
+android/.gradle/
+android/captures/
+android/gradlew
+android/gradlew.bat
+android/local.properties
+ios/Flutter/Generated.xcconfig
+ios/Flutter/flutter_export_environment.sh
+*.mode1v3
+*.mode2v3
+*.nib
+*.pbxuser
+*.perspectivev3
+*.moved-aside
+*.ipa
+*.apk
+*.aab
+.idea/
+*.iml
